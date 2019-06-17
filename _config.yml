@@ -1,0 +1,33 @@
+# Site settings
+name: Matthew LaFalce
+email: mlafalce206@gmail.com
+canonical_url: https://mattlafalce.me/
+keywords: "Software Engineer, Ruby, Java, Android, Startups"
+skills: "Software Developer in Manasquan, NJ"
+baseurl:
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/matthew-lafalce/
+  - title: github
+    url: https://github.com/MatthewLaFalce
+    
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4484ce
+  primary-rgb: "68,132,205"
+  secondary: 4484ce
+  secondary-dark: f19f4d
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
