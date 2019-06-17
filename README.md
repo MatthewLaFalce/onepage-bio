@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> This is my version of a one-pager site that is based heavily on Cuck Groom's onepage-bio
+> This is my version of a one-pager site that is based heavily on [Chuck Groom](https://github.com/chuckgroom)'s [onepage-bio](https://github.com/chuckgroom/onepage-bio)
 
 ### 🏠 [Homepage](https://mattlafalce.me/)
 
